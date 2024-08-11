@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceManagerWF", "FinanceManagerWF.csproj", "{453965A3-460D-4388-B41A-BD5CAAD9266F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{3EFE3599-78B8-4731-9857-0C32551F97C1}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\Calc.ico = bin\Debug\Calc.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453965A3-460D-4388-B41A-BD5CAAD9266F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453965A3-460D-4388-B41A-BD5CAAD9266F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453965A3-460D-4388-B41A-BD5CAAD9266F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453965A3-460D-4388-B41A-BD5CAAD9266F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7769D7C-2F64-42C0-8CC7-C9F3C48D449B}
+	EndGlobalSection
+EndGlobal
